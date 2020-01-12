@@ -73,7 +73,7 @@ schema:
       role: text
       partytype: text
       representationtype: text
-      undertenant: text
+      undertenant: boolean
   -
     table_name: oca_events
     fields:
